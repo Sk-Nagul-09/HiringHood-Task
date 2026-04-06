@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("CI/CD is working 🎉");
+    alert("Deployment Successful");
 }
